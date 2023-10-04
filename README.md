@@ -1,1 +1,1 @@
-# PHP_Tours
+PHP_ホテル (Hotel)
