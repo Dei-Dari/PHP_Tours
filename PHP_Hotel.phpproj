@@ -1,0 +1,16 @@
+<Project Sdk="Devsense.Php.Sdk">
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>bce5bbe4-31d0-4a22-800c-0711b8630d1c</ProjectGuid>
+  </PropertyGroup>
+  <PropertyGroup>
+    <EnvName>PHPDev</EnvName>
+    <RuntimeVersion>8.2</RuntimeVersion>
+    <SaveServerSettingsInUserFile>false</SaveServerSettingsInUserFile>
+    <PHPDevHostName>localhost</PHPDevHostName>
+    <PHPDevAutoPort>true</PHPDevAutoPort>
+    <PHPDevRouting />
+  </PropertyGroup>
+  <ItemGroup>
+    <Folder Include="images\" />
+  </ItemGroup>
+</Project>
